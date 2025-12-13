@@ -9,7 +9,7 @@
 <p align="center">
 
 * 🌸Computer Science - <a href="https://htl-braunau.at/live">HTL Braunau</a>
-<img src="./img/gif12.gif" align="right" width=200px></img>
+<img src="./img/gif12.gif" align="right" width=300px></img>
 * <summary>🌸Favourite Games</summary>
     <ul>
       <li>🩷 Elden Ring</li>
