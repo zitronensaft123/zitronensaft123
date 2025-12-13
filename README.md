@@ -9,7 +9,7 @@
 <p align="center">
 
 * Computer Science - <a href="https://htl-braunau.at/live">HTL Braunau</a>
-<img src="./img/gif1.gif" align="right" width=200px></img>
+<img src="./img/gif12.gif" align="right" width=200px></img>
 * <summary>Favourite Games</summary>
     <ul>
       <li>Elden Ring</li>
@@ -33,7 +33,7 @@
 <a href="https://open.spotify.com/user/317ibgxnwyq7dz3f7i6xgtmcrinq?si=7f68c83c39354ebb"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.twitch.tv/hkyzitrone_"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 <br><br>
-<img align="center" width=45% src="./img/gif2.gif"><br><br>
+<img align="center" width=45% src="./img/gif22.gif"><br><br>
 
 </div>
 
