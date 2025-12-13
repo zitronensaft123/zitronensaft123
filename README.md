@@ -1,5 +1,5 @@
 
-<img align="center" src="">
+<img align="center" src="img/banner.jpg">
 <p align="center">
   <img src="" alt="cat" width="150">
 </p>
@@ -24,7 +24,7 @@
 * 💙 Programming, Graphic Design
 <br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,linux,arch&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,github,linux,arch&perline=8"/>
 </p>
 
 </p>
