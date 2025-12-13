@@ -10,9 +10,12 @@
 
 * Computer Science - <a href="https://htl-braunau.at/live">HTL Braunau</a>
 <img src="./img/gif1.gif" align="right" width=200px></img>
-  * <summary>🎮 Favourite Games</summary>
+* <summary>Favourite Games</summary>
     <ul>
       <li>Elden Ring</li>
+      <li>Sekiro: Shadows die Twice</li>
+      <li>Geometry Dash (my hardest is Bloodbath btw)</li>
+      <li>The Binding of Isaac: Repentance</li>
     </ul>
 * Programming, Electronics
 <br><br>
