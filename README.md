@@ -1,5 +1,5 @@
 
-<img align="center" src="img/banner.jpg">
+<img align="center" src="img/banner.gif">
 <div align="center">
 
 # Hello!
