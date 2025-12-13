@@ -1,5 +1,5 @@
 
-<img align="center" class="justify-center" src="img/banner.gif">
+<img align="center" width="100%" src="img/banner.gif">
 <div align="center">
 
 # Hello!
